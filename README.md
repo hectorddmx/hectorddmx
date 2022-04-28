@@ -9,7 +9,7 @@ I'm **Héctor De Diego Brito**.
 
 About me:
 
-- 🔭 I’m currently working as the Global Head of Department in Distillery.
+- 🔭 I’m currently working as the Global Head of Department at Distillery.
 - 🌱 I’m currently learning Phoenix Live View and Surface to design reusable components.
 - 👯 I’m looking to collaborate on IOT and XR projects. 
 - 🤔 I’m looking for help organizing meetups.
