@@ -1,10 +1,13 @@
 ### Hi there 👋 
 
-I'm **Héctor De Diego Brito**. 
-I'm an iOS, macOS, tvOS developer. Proficient in both Swift and Objective-C.
-In my free time I do some projects with Elixir/Pheonix (PETAL Stack) and Python/Django which are stacks I enjoy a lot.
-In the past I did PHP/Laravel, Unity3d/C# and a couple of PoC's with Angular and React but I'm rusty and/or don't enjoy working with those technologies anymore.
-I'd love to see XR technologies (glasess or projectors) and IOT change the landscape of technology in the next years.
+I'm **Héctor De Diego Brito**.   
+
+- I'm an iOS, macOS, tvOS developer. Proficient in both Swift and Objective-C.  
+- In my free time I do some projects with Elixir/Pheonix (PETAL Stack) and Python/Django which are stacks I enjoy a lot.  
+- In the past I did PHP/Laravel, Unity3d/C# and a couple of PoC's with Angular and React but I'm rusty and/or don't enjoy working with those technologies anymore.  
+- I'd love to see XR technologies (glasess or projectors) and IOT change the landscape of technology in the next years.
+
+About me:
 
 - 🔭 I’m currently working as the Global Head of Department in Distillery.
 - 🌱 I’m currently learning Phoenix Live View and Surface to design reusable components.
