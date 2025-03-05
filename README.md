@@ -5,7 +5,7 @@ I'm **Héctor De Diego Brito**.
 - I'm an iOS, macOS, tvOS and visionOS developer. Proficient in both Swift and Objective-C.  
 - In my free time I do some projects with:
     - Elixir/Phoenix (PETAL Stack)
-    - Python/Django, and
+    - Python/FastAPI, Python/FastHTML, and Python/Django
     - Dart/Flutter
 - Which are stacks I enjoy a lot.
 - In the past I also did:
