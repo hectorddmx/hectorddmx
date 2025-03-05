@@ -8,13 +8,13 @@ I'm **Héctor De Diego Brito**.
     - Elixir/Phoenix (PETAL Stack)
     - Python/FastAPI, Python/FastHTML, and Python/Django
     - Dart/Flutter
-    - C#/Unity3D
+    - C#/Unity3D  
 (^these are stacks I enjoy a lot)
 - In the past I also did:
     - PHP/Laravel or PHP/Wordpress
     - JS/Angular
     - JS & TS/React
-    - TS/React Native
+    - TS/React Native  
 (^these are stacks I either dread or work only when I really need to)
 - I'd love to see XR technologies (glasess or projectors) and IOT change the landscape of technology in the next years.
 
