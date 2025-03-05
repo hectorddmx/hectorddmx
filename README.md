@@ -4,16 +4,17 @@ I'm **Héctor De Diego Brito**.
 
 - I'm an iOS, macOS, tvOS and visionOS developer. Proficient in both Swift and Objective-C.  
 - In my free time I do some projects with:
+    - Swift/iOS, macOS, tvOS, visionOS and backend
     - Elixir/Phoenix (PETAL Stack)
     - Python/FastAPI, Python/FastHTML, and Python/Django
     - Dart/Flutter
-    - Unity3d/C#  
+    - C#/Unity3D
 (^these are stacks I enjoy a lot)
 - In the past I also did:
     - PHP/Laravel or PHP/Wordpress
-    - Angular/JS
-    - React/JS & TS
-    - React Native/TS  
+    - JS/Angular
+    - JS & TS/React
+    - TS/React Native
 (^these are stacks I either dread or work only when I really need to)
 - I'd love to see XR technologies (glasess or projectors) and IOT change the landscape of technology in the next years.
 
